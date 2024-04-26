@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Jack-OC/Base-Apparel-Coming-Soon-Page)
+- Live Site URL: (https://jack-oc.github.io/Base-Apparel-Coming-Soon-Page/)
 
 
 ## My process
